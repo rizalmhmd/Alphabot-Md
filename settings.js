@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://api.zeeoneofc.xyz': 'YrxxzZel',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -29,9 +29,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" //namabot kalian
 global.ownername= "𝚉𝚊𝚕𝚕" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://github.com/rizalmhmd" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.myweb2 = "https://instagram.com/zallzall02" //bebas
 global.email = "payahhawok@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
